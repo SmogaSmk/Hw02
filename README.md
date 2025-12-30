@@ -492,6 +492,6 @@ if __name__ == "__main__":
 ```
 运行结果可见截图: 
 
-![Chatbox](ChatBox.png)
+![Chatbox](./pic/ChatBox.png)
 
 
